@@ -26,6 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
+ a
     $host = "<Nama server database Anda>";
     $user = "<Nama admin database Anda>";
     $pass = "<Password admin database Anda>";
